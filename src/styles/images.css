@@ -1,0 +1,12 @@
+.photo-feed {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: black;
+}
+
+.photo-feed img {
+  width: 300px;
+  height: 300px;
+  margin: 10px;
+  object-fit: cover;
+}
